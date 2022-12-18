@@ -40,7 +40,7 @@
 "HPK_ADMOB4" : "loan",
 "HPK_ADMOB5" : "donate",
 
-"UNITY_BANNER" : "Banner",
+"UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "5026589",
 "UNITY_TEST_MODE" : false,
