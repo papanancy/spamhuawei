@@ -20,9 +20,9 @@
 //     * Untuk Native akan terganti menjadi banner jika tanpa id 
 
 
-"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "UNITY",
-"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTERS_COUNT_WEB" : 2,
 
