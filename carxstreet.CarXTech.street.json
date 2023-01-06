@@ -1,0 +1,86 @@
+{
+  "redirect" : {
+
+"JSON_POPUP_WAIT" : "Please Wait Server Ready",
+
+"TOAST_NOTIF" : false,
+
+"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : true,
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode FAN         FAN backup Unity Backup Startapp
+//     * Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+//     * Untuk Native akan terganti menjadi banner jika tanpa id 
+
+
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+
+"INTERS_COUNT_WEB" : 2,
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+
+"HPK_ALIENDROID" : "cloud hosting",
+"HPK_ADMOB1" : "university",
+"HPK_ADMOB2" : "credit card",
+"HPK_ADMOB3" : "insurance",
+"HPK_ADMOB4" : "loan",
+"HPK_ADMOB5" : "donate",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5107127",
+"UNITY_TEST_MODE" : false,
+
+"STARAPPID" : "200331510",
+
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"BUTTON_RATING" : "RATING",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_START" : "START",
+
+"EXIT_POPUP_DIALOG" : "
+Please give us a 5 stars rating, so we keep the spirit of providing the latest updates :)
+
+",
+"RATE_BUTTON" : "RATE 5 STARS",
+"LATER_BUTTON" : "RATE LATER",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+This app is awesome 
+
+You need try to donwload this app
+I.ve download it and so much happy
+",
+"MORE_BUTTON" : "SHARE VIA WHATSAPP",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=luciathenext",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+
+
+  }
+}
+
+
