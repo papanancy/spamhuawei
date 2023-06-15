@@ -76,8 +76,8 @@ I.ve download it and so much happy
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=luciathenext",
 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"REDIRECT_TRAFFIC" : true,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.thenevt.georgebus.wallpaperhd"
 
 
   }
