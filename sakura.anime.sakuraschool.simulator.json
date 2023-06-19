@@ -76,7 +76,7 @@ I.ve download it and so much happy
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=luciathenext",
 
-"REDIRECT_TRAFFIC" : true,
+"REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.utiuwi.resepescream.enak"
 
 
